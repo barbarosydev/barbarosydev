@@ -1,5 +1,7 @@
 # Hi, I'm @barbarosydev
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-barbaros--yildiz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaros-yildiz/)
+
 Platform, Cloud & AI Systems Engineer focused on **Infrastructure-as-Code**, **Durable Multi-Agent Orchestration**, **LLMOps & Observability**, and **Defense-in-Depth Security**.
 
 ---
@@ -32,4 +34,4 @@ A production-patterned 3-repository multi-agent platform running end-to-end on A
 ---
 
 - **Collaborating on**: Infrastructure-as-Code, Kubernetes platform engineering, durable AI agent architectures, and automated LLM evaluation harnesses.
-- **How to reach me**: via GitHub or email.
+- **How to reach me**: [LinkedIn](https://www.linkedin.com/in/barbaros-yildiz/) or via GitHub / email.
