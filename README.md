@@ -1,17 +1,20 @@
-# Hi, I'm @barbarosydev
+# Hi, I'm Barbaros Yildiz (`@barbarosydev`)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-barbaros--yildiz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaros-yildiz/)
 
-Platform, Cloud & AI Systems Engineer focused on **Infrastructure-as-Code**, **Durable Multi-Agent Orchestration**, **LLMOps & Observability**, and **Defense-in-Depth Security**.
+**Senior Data & Platform Engineer** based in Berlin, Germany — with 12+ years building **cloud-scale data platforms**, **Infrastructure-as-Code on Kubernetes**, **security-by-design systems**, and **durable AI agent architectures**.
+
+Currently **Senior Data Engineer (ADAS Data Ingestion, Validation & Storage)** at **CARIAD (Volkswagen Group)**, making **Azure, AKS, Databricks, Airflow, and Terraform** easy and reliable to build on for automated-driving engineering teams.
 
 ---
 
-### Current Focus & Interests
+### Background & Core Competencies
 
-- **Cloud & Infrastructure-as-Code**: Declarative platforms with **Terraform**, **Helm**, **Kubernetes** (`k3d`, AKS, GCP), **CloudNativePG**, and **Conftest (OPA/Rego)** policy-as-code.
-- **Durable AI Agent Systems**: Asynchronous, fault-tolerant multi-agent workflows using **Go**, **Temporal**, **Python**, and **PydanticAI** with typed contracts, human-in-the-loop signals, and bounded self-correction.
-- **LLMOps, Observability & Evals**: Cross-language **OpenTelemetry** + **Arize Phoenix (OpenInference)** trace waterfalls, **LiteLLM** virtual-key routing & cost telemetry, **Promptfoo** golden/red-team evaluations, and local **Ollama** GPU inference.
-- **Security & Automated Quality Gates**: Zero-trust Kubernetes `NetworkPolicy` isolation, `--network=none` ephemeral OCI sandboxing, path-jailed agent tools, **`@axe-core/playwright`** WCAG 2.1 AA verification, and `gitleaks` secret hygiene.
+- **Data Platforms & Cloud Architecture (Azure, GCP, AWS)**: Designed and operated self-service ingestion, validation, and analytics platforms across **Azure (AKS, Databricks, Airflow)**, **GCP (BigQuery, Apache Beam / Dataflow, Cloud Composer)**, and **AWS (Kafka, Hadoop, Elasticsearch)**.
+- **Infrastructure-as-Code & Platform Engineering**: Delivered production **Kubernetes / AKS** platforms end-to-end as IaC (including CARIAD + Bosch's **Mender OTA** platform and CARIAD's **Big Loop** on-the-road data-collection backend) with **Terraform** and **Helm**.
+- **Security & Compliance by Design**: Taken enterprise data and OTA platforms through **IT-Sec approval** and **NIST 800-53** controls from the ground up — zero-trust networking, least-privilege IAM/RBAC, secret hygiene, and policy-as-code.
+- **From Zero to Scale**: Built **Ultimate's** GCP data platform from scratch as its first data engineer (growing the team from 1 to 4 prior to acquisition by Zendesk, including the data backend for an AI agent performance dashboard), following earlier cloud SIEM (`Comodo NxSIEM`) and high-throughput log pipelines (`LabirentLab`).
+- **Current Exploration — Production-Patterned AI Systems**: Applying data-platform rigor (durability, observability, evaluation harnesses, sandboxing, and IaC) to multi-agent software engineering in Go, Temporal, and Python.
 
 ---
 
@@ -33,5 +36,5 @@ A production-patterned 3-repository multi-agent platform running end-to-end on A
 
 ---
 
-- **Collaborating on**: Infrastructure-as-Code, Kubernetes platform engineering, durable AI agent architectures, and automated LLM evaluation harnesses.
-- **How to reach me**: [LinkedIn](https://www.linkedin.com/in/barbaros-yildiz/) or via GitHub / email.
+- **Core Stack**: `Terraform` · `Kubernetes (AKS / k3d)` · `Azure` · `GCP` · `Databricks` · `Apache Airflow` · `Apache Beam` · `Kafka` · `PostgreSQL` · `Go` · `Python` · `Temporal` · `OpenTelemetry` · `Arize Phoenix` · `LiteLLM` · `Promptfoo` · `Playwright`
+- **How to reach me**: [LinkedIn](https://www.linkedin.com/in/barbaros-yildiz/) or via GitHub.
